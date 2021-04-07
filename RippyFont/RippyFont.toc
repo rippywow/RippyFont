@@ -1,0 +1,13 @@
+## Interface: 20501
+## Title: RippyFont
+## Notes: Font Resizing
+## OptionalDeps: LibSharedMedia-3.0
+
+LibStub.lua
+RippyAboutPanel.lua
+RippyHeading.lua
+RippyGroup.lua
+RippyScroll.lua
+
+RippyFont.lua
+sample.lua
